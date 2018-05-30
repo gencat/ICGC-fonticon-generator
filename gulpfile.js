@@ -5,7 +5,7 @@ var gulp = require('gulp'),
     rename = require("gulp-rename");
 
 var path_svg = 'svg';
-var fontname = 'geostart';
+var fontname = 'Geostart-Regular;
 
 if(argv.path){
   path_svg = argv.path;
