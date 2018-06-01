@@ -1,4 +1,4 @@
-Generardor de Fonticons desde SVGs
+Generador de Fonticons desde SVGs
 ==================================
 
 Instalación
